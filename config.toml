@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hnc-jihoon.github.io/hugo-site-docsy/'
 languageCode = 'en-us'
 title = 'Hugo with Docsy'
 
